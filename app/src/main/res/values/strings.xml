@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prompt Bubble</string>
+    <string name="a11y_label">Prompt Bubble</string>
+    <string name="a11y_description">Shows a floating bubble over your apps. When you tap it, it reads the text on screen or captures a screenshot of the area you select, and saves it to your Prompt Bubble tray on this phone. Nothing is sent anywhere unless you share it.</string>
+</resources>
